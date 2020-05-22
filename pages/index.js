@@ -10,17 +10,17 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Voguefront <a href="https://nextjs.org">store</a>
+          Voguefront <a href="https://nextjs.org">Blog</a>
         </h1>
 
         <p className="description">
-           verified <code>shop</code>
+           verified <code>store</code>
         </p>
 
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Products &rarr;</h3>
-            <p>Find in-depth information about Voguefront store</p>
+            <p>Find in-depth information about Voguefront Shop</p>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
